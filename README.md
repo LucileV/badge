@@ -1,4 +1,4 @@
-##Qui?
+## ui?
 
 Tan gardien de la branche
 Elisa
@@ -9,13 +9,13 @@ Steve
 
 
 
-##Où?
+## Où?
 
-##Pourquoi ?
-
-
+## Pourquoi ?
 
 
-##Comment : quelle fut la procédure suivie (avec les commandes git)
+
+
+## Comment : quelle fut la procédure suivie (avec les commandes git)
 
 - Crée un repo avec le readme
